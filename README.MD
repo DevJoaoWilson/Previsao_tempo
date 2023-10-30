@@ -10,7 +10,7 @@ Neste projeto, criamos uma aplicação que permite aos usuários obter informaç
 
 - **Pesquisa de cidade:** Os usuários podem inserir o nome da cidade na caixa de pesquisa e obter informações sobre o clima atual e a previsão para os próximos dias.
 
-- **Exibição de informações:** A aplicação exibe o nome da cidade, a temperatura atual, a descrição do clima e a previsão para os próximos 5 dias.
+- **Exibição de informações:** A aplicação exibe o nome da cidade, a temperatura atual e a descrição do clima.
 
 ## 🛠️ Tecnologias Utilizadas
 
