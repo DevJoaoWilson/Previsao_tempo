@@ -1,9 +1,6 @@
 <h1 align="center">Projeto de Exemplo - Aplicação de Previsão do Tempo</h1>
-<p align="center">
-  <img src="/img/weather-app.png" alt="Weather App">
-</p>
 
----
+
 
 ## 📚 Visão Geral
 
