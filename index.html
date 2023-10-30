@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Previsão do Tempo - DevJoão</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <input class="cidade" type="text" placeholder="Digite uma cidade" />
+        <button onclick="buscar()">
+          <img
+            id="img-busca"
+            src="https://www.svgrepo.com/show/488200/find.svg"
+            alt=""
+          />
+        </button>
+      </header>
+
+      <div id="midbox">
+        <h2 id="title">Tempo em Guarulhos</h2>
+
+        <p id="temp">21ºC</p>
+
+        <div id="ltbox">
+          <img
+            id="icone"
+            src="https://openweathermap.org/img/wn/04n.png"
+            alt="icone-nuvem"
+          />
+          <p id="text-preview">clima</p>
+        </div>
+        <span id="umidade">Umidade do ar</span>
+      </div>
+    </div>
+    <script src="/script.js"></script>
+  </body>
+</html>
